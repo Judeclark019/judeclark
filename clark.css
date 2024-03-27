@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px 30x 0 0;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+    color: black;
+}
